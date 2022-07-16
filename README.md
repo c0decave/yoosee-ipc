@@ -1,2 +1,2 @@
 # yoosee-ipc
-Research in regard of cheap chinese camera system
+Research in regard of chinese camera system
