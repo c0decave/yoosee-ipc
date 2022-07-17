@@ -142,10 +142,14 @@ convinience.
 
 ## Network Activity
 
+IP Information after joined wireless network of camera:    
     
-    
-    10.200.226.100 -- mein client
-    10.200.226.1 -- Roboter
+    10.200.226.100 -- Client in Robot Network  
+    10.200.226.1 -- Robot dhcp  
+
+Note:
+
+There is port 5000/tcp (soap) and 554/tcp (rtsp) open.  
 
 Asks for the following dns servers
 
@@ -385,17 +389,17 @@ the outcome.
 
 <https://www.amazon.com/KeeYees-Analyzer-Device-Channel-Arduino/dp/B07K6HXDH1>
 
-##### Software for Logic Analyzers¶
+##### Software for Logic Analyzers
 
 <https://www.saleae.com/downloads/>  
 <https://sigrok.org/wiki/Main_Page>
 
-### Repositories¶
+### Repositories
 
 <https://github.com/c0decave/yoosee-ipc> <https://github.com/t-rekttt/yoosee-
 exploit>
 
-### Product¶
+### Product
 
 Currently you can find it at ali express as robot camera.
 
