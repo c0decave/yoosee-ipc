@@ -367,8 +367,7 @@ I have sorted links for additional research.
 #### System on Chip
 
 Later version of the chip:  
-<https://www.unifore.net/ip-video-surveillance/anyka-ak3918ev300-1080p-ip-
-camera-solution.html>
+<https://www.unifore.net/ip-video-surveillance/anyka-ak3918ev300-1080p-ip-camera-solution.html>
 
 #### USB to TTL Serial
 
@@ -377,10 +376,8 @@ Those have not been the ones i used. However, its the type of device you can
 use to.
 
 <https://www.amazon.com/Gumps-grocery-Module-Converter-Replace/dp/B081L482DP>  
-<https://www.amazon.com/DGZZI-PL2303TA-Console-Serial-
-Raspberry/dp/B07W42V16T/>  
-<https://www.amazon.com/Adapter-Serial-Converter-Development-
-Projects/dp/B075N82CDL>
+<https://www.amazon.com/DGZZI-PL2303TA-Console-Serial-Raspberry/dp/B07W42V16T/>  
+<https://www.amazon.com/Adapter-Serial-Converter-Development-Projects/dp/B075N82CDL>
 
 #### Logic Analyser
 
@@ -396,8 +393,10 @@ the outcome.
 
 ### Repositories
 
-<https://github.com/c0decave/yoosee-ipc> <https://github.com/t-rekttt/yoosee-
-exploit>
+<https://github.com/c0decave/yoosee-ipc>  
+<https://github.com/t-rekttt/yoosee-exploit>
+<https://thao.pw/hacking-yoosee-camera/> - Additional Ressource of t-rekttt, guess .vn or.th
+
 
 ### Product
 
